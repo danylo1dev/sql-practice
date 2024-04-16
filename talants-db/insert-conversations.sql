@@ -1,0 +1,1 @@
+INSERT INTO conversations (user_name, employer_name, message, date_sent) VALUES ("Danylo Hlushko", "Lerning Inc", "Hi i like learning!!!", '2023-10-15 16:32:10')
